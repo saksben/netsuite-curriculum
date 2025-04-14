@@ -3,6 +3,7 @@
 Objective: Learn to start a workflow on a record using workflow.initiate.
 
 Explanation: workflow.initiate begins a workflow for a specific record, requiring workflowId (the internal ID of the workflow from Customization > Workflow > Workflows), recordType (e.g., salesorder), and recordId (the record’s internal ID). It returns the initial workflowInstanceId. This is synchronous and immediate, ideal for starting workflows on demand. Create a basic workflow in your sandbox (e.g., set a field on Sales Order save) to test this.
+Workflow lets you initiate new workflow instances or trigger existing workflow instances
 
 Deployment/Viewing Instructions:
 

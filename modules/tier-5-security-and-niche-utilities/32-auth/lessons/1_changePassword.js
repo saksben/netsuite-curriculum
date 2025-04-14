@@ -3,6 +3,7 @@
 Objective: Learn to update a user’s password using auth.changePassword.
 
 Explanation: auth.changePassword updates the current user’s password, requiring currentPassword (the existing password) and newPassword. This is useful for forcing password updates programmatically (e.g., after a security event). For testing, use your own account in the sandbox, but ensure you know your current password and have permission to change it (typically tied to your role).
+Auth lets you change your NetSuite login credentials`
 
 Deployment/Viewing Instructions:
 

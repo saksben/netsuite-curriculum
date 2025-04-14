@@ -1,0 +1,1 @@
+// suiteAppInfo accesses information related to SuiteApps and Bundles

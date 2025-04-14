@@ -1,0 +1,1 @@
+// KeyControl lets you use SSH keys and access key storage. Can also access keys in UI at Setup>Company>Preferences>Keys. By using SSH keys, you can manage files and directories by using the SFTP protocol.

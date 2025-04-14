@@ -3,6 +3,7 @@
 Objective: Learn to retrieve script metadata using runtime.getCurrentScript.
 
 Explanation: runtime.getCurrentScript returns a Script object with properties like id (script ID), deploymentId, and methods like getParameter to access script parameters. It’s useful for debugging or adapting logic based on the script’s configuration. This is a foundational runtime method available across all script types.
+Runtime lets you view runtime settings for the script, session, or user. Similar to RecordContext but is less about context and more about the script/session/user. Can also set a session key and see whether a particular feature is enabled on the account.
 
 Deployment/Viewing Instructions:
 

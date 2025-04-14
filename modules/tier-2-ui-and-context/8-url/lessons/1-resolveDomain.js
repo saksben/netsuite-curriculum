@@ -3,6 +3,7 @@
 Objective: Use resolveDomain to create a URL for the NetSuite domain.
 
 Explanation: resolveDomain generates a base URL for a NetSuite domain (e.g., production, sandbox), accepting options like hostType (e.g., APPLICATION, RESTLET). This lesson creates a domain URL for RESTlet access, useful for API calls.
+URL module determines URL navigation paths within NetSuite and formats URL strings.
 
 Deployment/Viewing Instructions:
 

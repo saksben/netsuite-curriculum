@@ -1,0 +1,1 @@
+// Compress compresses or decompresses files. Can use to archive multiple files in a single file archive like a TAR or ZIP file.

@@ -1,0 +1,1 @@
+// Use Config to access NetSuite configuration settings. 

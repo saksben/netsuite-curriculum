@@ -3,6 +3,7 @@
 Objective: Learn to void a transaction using transaction.void.
 
 Explanation: transaction.void cancels a transaction, setting its status to voided (e.g., a Sales Order becomes "Voided"). It requires an object with type (from record.Type, e.g., SALES_ORDER) and id (the transaction’s internal ID). Voiding is permanent and removes financial impact, useful for correcting errors. Test in your sandbox with a disposable transaction.
+Transaction voids transactions
 
 Deployment/Viewing Instructions:
 

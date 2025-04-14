@@ -1,0 +1,1 @@
+// Crypto/Certificate signs XML documents or strings with digital certificates using asymmetric cryptography. Can also create signer and verifier objects and verify signed documents

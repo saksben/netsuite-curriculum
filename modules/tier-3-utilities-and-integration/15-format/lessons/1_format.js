@@ -3,6 +3,7 @@
 Objective: Learn to format a JavaScript Date object using format.format.
 
 Explanation: format.format converts a value (e.g., a Date object) into a string based on a type from format.FormatType (e.g., DATETIME, DATE). Options like timezone (from format.TimeZone) can adjust the output. This is essential for displaying dates in user-friendly formats or logs.
+Format parses formatted data into strings and converts strings into a specified format according to personal preferences set on the Set Preferences page.
 
 Deployment/Viewing Instructions:
 

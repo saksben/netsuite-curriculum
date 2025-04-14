@@ -3,6 +3,7 @@
 Objective: Learn to retrieve the current record’s context using recordContext.getContext.
 
 Explanation: recordContext.getContext returns a RecordContext object that provides details about the record’s state in the UI, such as the contextType (e.g., CREATE, EDIT, VIEW) and associated field or sublist data. It’s available in Client Script entry points like pageInit or fieldChanged, complementing N/currentRecord by offering UI-specific metadata.
+RecordContext lets you get all available context types of a record (ex. localization). Similar to Runtime, but is all about the context. Can also create conditional statements within a script so the script behaves differently based on the context.
 
 Deployment/Viewing Instructions:
 

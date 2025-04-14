@@ -1,0 +1,1 @@
+// Crypto lets you perform hashing, hash-based message authentication (hmac), and symmetrical encryption functions

@@ -3,6 +3,9 @@
 Objective: Learn to retrieve the current record object using currentRecord.get.
 
 Explanation: N/currentRecord provides the get method to access the current record in a Client Script. This returns a ClientCurrentRecord object with properties like id (the record’s internal ID) and type (e.g., salesorder). It’s the starting point for interacting with the record in real-time, available in entry points like pageInit or fieldChanged.
+I.e. it's to access the record that is active in the current client context.
+
+NOTE: currentRecord only works on Client Scripts, because it is on the current record on the client context
 
 Deployment/Viewing Instructions:
 

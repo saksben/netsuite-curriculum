@@ -1,0 +1,1 @@
+// Encode converts a string to another type of encoding. Exposes string encoding and decoding functionality

@@ -2,6 +2,8 @@
  * Lesson 1: Loading and Inspecting a Record
 Objective: Use record.load to load a record and explore its properties.
 
+The Record module lets you interact with the entire record object. Create, delete, copy, load, or make changes to a record.
+
 Explanation: record.load retrieves a record by type and ID, giving you access to its fields and properties like id, type, and isDynamic.
 
 Steps:

@@ -1,0 +1,1 @@
+// Translation lets you interact with NetSuite Translation Collections

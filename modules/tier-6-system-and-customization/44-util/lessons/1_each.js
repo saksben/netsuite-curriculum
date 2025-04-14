@@ -3,6 +3,7 @@
 Objective: Learn to iterate over arrays or objects using util.each.
 
 Explanation: util.each loops through an array or object, calling a callback function for each element with parameters value and index (or key for objects). Returning false from the callback stops iteration early. This is a cleaner alternative to native for loops, especially for dynamic data like search results.
+Util lets you manually access methods that verify object and primitive types in a SuiteScript 2.x script
 
 Deployment/Viewing Instructions:
 

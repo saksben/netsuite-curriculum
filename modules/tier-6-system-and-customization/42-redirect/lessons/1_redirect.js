@@ -1,0 +1,1 @@
+// Redirect customizes navigation within NetSuite by setting up a redirect URL that resolves to a NetSuite resource or external URL

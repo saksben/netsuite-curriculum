@@ -3,6 +3,7 @@
 Objective: Learn to fetch data from an external URL using https.get.
 
 Explanation: https.get sends a GET request to a specified url, returning a Response object with properties like body (response content) and code (HTTP status code, e.g., 200 for success). It’s the simplest way to retrieve data from an API or webpage, ideal for read-only operations. Use a public API (e.g., JSONPlaceholder) for testing in your sandbox.
+Can use HTTPS to communicate between SuiteScript scripts, RESTlets, and SuiteTalk REST APIs without having to reauthenticate.
 
 Deployment/Viewing Instructions:
 

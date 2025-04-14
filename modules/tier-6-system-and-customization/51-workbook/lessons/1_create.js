@@ -1,0 +1,1 @@
+// Workbook lets you create a new workbook, load an existing workbook, or list all existing workbooks. Workbooks are where you analyze the results of your dataset queries using different components like table views. Kind of like Excel.

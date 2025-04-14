@@ -3,6 +3,7 @@
 Objective: Learn to generate a PDF from a transaction using render.Transaction.
 
 Explanation: render.transaction creates a Transaction renderer for a specific transaction (e.g., Sales Order) using its id and entityId (optional for customer-specific layouts). The toPDF method converts it to a PDF File object. This is a quick way to render standard transaction forms without custom templates.
+Render is for printing, PDF creation, form creation from templates, and email creation from templates
 
 Deployment/Viewing Instructions:
 

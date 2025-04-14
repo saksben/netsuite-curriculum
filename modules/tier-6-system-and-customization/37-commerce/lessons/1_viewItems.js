@@ -1,0 +1,1 @@
+// Commerce/recordView provides fast, cached, and public access to the item fields and website settings

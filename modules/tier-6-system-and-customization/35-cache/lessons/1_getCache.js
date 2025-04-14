@@ -3,6 +3,7 @@
 Objective: Learn to create or retrieve a cache using cache.getCache.
 
 Explanation: cache.getCache creates or retrieves a Cache object with a unique name (string identifier) and optional scope (from cache.Scope, e.g., PRIVATE, PUBLIC). The cache stores key-value pairs for quick access, persisting based on scope (e.g., PRIVATE for the current user/script, PUBLIC across users). This is the entry point for caching operations.
+Cache enables temporary storage of data. Improves performance by eliminating the need for scripts to repeatedly retrieve the same piece of data
 
 Deployment/Viewing Instructions:
 

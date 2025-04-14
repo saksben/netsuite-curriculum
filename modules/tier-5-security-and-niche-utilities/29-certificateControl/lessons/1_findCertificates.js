@@ -1,0 +1,1 @@
+// CertificateControl enables scripting access to the Digital Certificates list found in the UI at Setup>Company>Certificates. You can use to find, create, update, read, and delete certificates records.

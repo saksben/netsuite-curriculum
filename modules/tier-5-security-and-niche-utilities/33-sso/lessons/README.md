@@ -1,0 +1,1 @@
+As of NetSuite 2025.1, the SSO module is not supported

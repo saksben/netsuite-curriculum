@@ -1,0 +1,1 @@
+// Recognition merges revenue arrangements or elements. A revenue arrangement is a transaction that records the details of a sale for the purposes of revenue allocation and recognition. This module lets you combine revenue arrangements or elements from multiple sources to represent a single contract obligation for revenue allocation and recognition

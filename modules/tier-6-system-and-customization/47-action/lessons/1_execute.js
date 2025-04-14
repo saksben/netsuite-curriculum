@@ -1,0 +1,1 @@
+// Action lets you execute business logic to update the state of records in view mode.

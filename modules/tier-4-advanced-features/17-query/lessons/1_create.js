@@ -1,0 +1,1 @@
+// Query creates and runs queries (like SQL) using the SuiteAnalytics Workbook query process.
